@@ -322,7 +322,6 @@
 							"top": 200,
 							"width": 174.99977111816406,
 							"height": 143,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ia851daKdw8="
 							},
@@ -604,7 +603,6 @@
 							"top": 400,
 							"width": 137.81979370117188,
 							"height": 119,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8icmceOXTNpk="
 							},
@@ -834,7 +832,6 @@
 							"top": 408,
 							"width": 154.6167755126953,
 							"height": 80,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8icsdAuX/Ci0="
 							},
@@ -1064,7 +1061,6 @@
 							"top": 600,
 							"width": 87.39585876464844,
 							"height": 80,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ic5W6eY4cts="
 							},
@@ -1821,7 +1817,6 @@
 							"top": 600,
 							"width": 127.1497802734375,
 							"height": 67,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8idXJgO2JtiY="
 							},
@@ -2069,7 +2064,6 @@
 							"top": 904,
 							"width": 79.04689025878906,
 							"height": 81,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8id/SrPGLGc8="
 							},
@@ -2322,7 +2316,6 @@
 							"top": 904,
 							"width": 79.04689025878906,
 							"height": 81,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ieb7HfcthlI="
 							},
@@ -2575,7 +2568,6 @@
 							"top": 904,
 							"width": 79.04689025878906,
 							"height": 81,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ieyVH/u7ADM="
 							},
@@ -2862,7 +2854,6 @@
 							"top": 904,
 							"width": 79.04689025878906,
 							"height": 107,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ie3kvv8yRI4="
 							},
@@ -3119,7 +3110,6 @@
 							"top": 736,
 							"width": 90.82781982421875,
 							"height": 115,
-							"autoResize": true,
 							"stereotypeDisplay": "icon",
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ihslswg/2Uo="
@@ -3369,7 +3359,6 @@
 							"top": 592,
 							"width": 85.536865234375,
 							"height": 91,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ih2MiwvKqlA="
 							},
@@ -3744,7 +3733,6 @@
 							"top": 904,
 							"width": 79.04689025878906,
 							"height": 107,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ih+xgw/ZSbs="
 							},
@@ -3998,7 +3986,6 @@
 							"top": 1064,
 							"width": 96.60285949707031,
 							"height": 94,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8iiDUMhOjPks="
 							},
@@ -4315,7 +4302,6 @@
 							"top": 904,
 							"width": 79.04689025878906,
 							"height": 133,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ii50hizi6mM="
 							},
@@ -4569,7 +4555,6 @@
 							"top": 592,
 							"width": 90.07980346679688,
 							"height": 91,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ijA3xzQ/ozQ="
 							},
@@ -4944,7 +4929,6 @@
 							"top": 904,
 							"width": 79.04689025878906,
 							"height": 107,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ijZuTkFoTn8="
 							},
@@ -5198,7 +5182,6 @@
 							"top": 592,
 							"width": 92.19183349609375,
 							"height": 91,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ijfT7kP2qDI="
 							},
@@ -5488,6 +5471,7 @@
 											"top": 943,
 											"width": 69.04689025878906,
 											"height": 11,
+											"autoResize": true,
 											"text": "guitar",
 											"horizontalAlignment": 0
 										},
@@ -5607,7 +5591,6 @@
 							"top": 904,
 							"width": 79.04689025878906,
 							"height": 133,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ijzPtE7VpS0="
 							},
@@ -5894,7 +5877,6 @@
 							"top": 904,
 							"width": 91.30082702636719,
 							"height": 107,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ij8ixFOklhs="
 							},
@@ -6148,7 +6130,6 @@
 							"top": 592,
 							"width": 86.41685485839844,
 							"height": 91,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ikAk0Fc5tM4="
 							},
@@ -6556,7 +6537,6 @@
 							"top": 48,
 							"width": 90.60784912109375,
 							"height": 145,
-							"autoResize": true,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8ikOiiWAmZZ0="
 							},
