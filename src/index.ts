@@ -1,6 +1,7 @@
-import {Character} from './class/Character';
+/* eslint-disable prettier/prettier */
+import { Character } from './class/Character';
 
 (() => {
-  const character = new Character('2', 'Michaell');
+  const character = new Character('Michaell');
   console.debug(character);
 })();

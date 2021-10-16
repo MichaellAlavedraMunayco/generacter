@@ -1,10 +1,13 @@
+/* eslint-disable prettier/prettier */
+import { v4 as uuidv4 } from 'uuid';
+
 export class Character {
   id: string;
   name: string;
 
-  constructor(id: string, name: string) {
-    // TODO: Generate a uuidv4
-    this.id = id;
+  constructor(name: string) {
+    this.id = uuidv4();
     this.name = name;
   }
 }
+fe
