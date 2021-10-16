@@ -4,9 +4,11 @@
   "description": "A somewhat clever random character or actor generator",
   "main": "src/index.ts",
   "scripts": {
+    "start": "node ./build/src/index.js",
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
+    "watch": "tsc -w",
     "fix": "gts fix",
     "prepare": "npm.cmd run compile",
     "pretest": "npm.cmd run compile",
@@ -23,7 +25,7 @@
     "random"
   ],
   "author": "Michaell Alavedra Munayco",
-  "license": "MIT",
+  "license": "MIT license",
   "bugs": {
     "url": "https://github.com/MichaellAlavedraMunayco/generacter/issues"
   },
