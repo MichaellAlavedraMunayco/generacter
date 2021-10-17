@@ -2,9 +2,10 @@
   "name": "generacter",
   "version": "1.0.0",
   "description": "A somewhat clever random character or actor generator",
-  "main": "src/index.ts",
+  "main": "build/src/application/server.js",
   "scripts": {
-    "start": "node ./build/src/index.js",
+    "start": "node ./build/src/application/server.js",
+    "usecase": "node ./build/test/index.js",
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
@@ -25,7 +26,7 @@
     "random"
   ],
   "author": "Michaell Alavedra Munayco",
-  "license": "MIT license",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MichaellAlavedraMunayco/generacter/issues"
   },

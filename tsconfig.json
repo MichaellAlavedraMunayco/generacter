@@ -2,7 +2,22 @@
   "extends": "./node_modules/gts/tsconfig-google.json",
   "compilerOptions": {
     "rootDir": ".",
-    "outDir": "build",    
+    // "baseUrl": "./",
+    "outDir": "build",
+    // "paths": {
+    // "@domain/*": [
+    //   "src/domain/*"
+    // ],
+    // "@application/*": [
+    //   "src/application/*"
+    // ],
+    // "@infrastructure/*": [
+    //   "src/infrastructure/*"
+    // ],
+    // "@usecases/*": [
+    //   "usecases/*"
+    // ],
+    // }
   },
   "include": [
     "src/**/*.ts",
