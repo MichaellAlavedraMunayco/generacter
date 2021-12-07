@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-import { CharacterLocalRepository } from '../src/infrastructure/repositories/character.local.repository';
+import { CharacterLocalRepository } from '../src/infrastructure/repository/character.local.repository';
 import { CharacterController } from '../src/domain/controllers/character.controller';
 import { Character } from '../src/domain/entities/character';
 
